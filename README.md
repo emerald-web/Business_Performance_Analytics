@@ -36,7 +36,8 @@ The focus is on answering a single executive concern.
 * **Fact Table**. `fact_sales`
 * **Dimension Tables**. `dim_customers`, `dim_products`
 
-![Star Schema](docs/Data model.png)
+![Star Schema](docs/star_schema.png)
+
 
 
 
