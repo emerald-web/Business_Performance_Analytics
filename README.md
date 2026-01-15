@@ -59,7 +59,7 @@ All warehouse scripts live here.
 
 ## Executive Performance Overview
 
-![Executive KPI Overview](docs/executive_kpis.png)
+![Executive KPI Overview](docs/executive_kpi.png)
 
 
 From 2011 to 2013, revenue accelerated year over year, supported by disciplined cost control that preserved margins near 40%. Customer acquisition surged dramatically, forming the primary growth engine. At the same time, Average Order Value declined, signaling a shift toward smaller but more frequent purchases.
@@ -72,8 +72,7 @@ This combination produced strong short-term results, while introducing longer-te
 
 ### Growth Was Driven by Volume, Not Customer Value
 
-📌 *Insert Customer Growth vs AOV Trend Chart Here*
-Recommended visualization. Dual-axis line chart showing Customer Count rising sharply while AOV trends downward.
+![Customer Growth vs Average Order Value Trend. Volume driven growth pattern](docs/customer_vs_aov.png)
 
 The customer base expanded by more than 400% across three years, fueling record revenue growth. However, individual transaction value declined steadily. The business scaled by bringing more customers through the door rather than by increasing the value extracted from each relationship.
 
@@ -85,8 +84,7 @@ This insight is particularly relevant for **Marketing and Finance teams**, where
 
 ### Category Concentration Explains Performance Swings
 
-📌 *Insert Revenue by Product Category Chart Here*
-Recommended visualization. Stacked bar or area chart showing category contribution over time.
+![Revenue and Profit Contribution by Product Category](docs/category_contribution.png)
 
 A small number of product categories, primarily Bikes, generate the majority of revenue, while Accessories contribute disproportionately to profitability. When these core categories perform well, the entire business accelerates. When they soften, overall performance slows immediately, as seen during the 2012 dip.
 
