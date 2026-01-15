@@ -15,11 +15,11 @@ The analysis reveals a business that grows powerfully when demand timing, catego
 
 ## Business Context
 
-This project reflects a real-world analytics engagement, framed as work delivered for internal stakeholders at a multi-region retail business. The objective is create decision support for leadership, finance, marketing, and operations teams.
+The business operates a multi-region bike retail model, selling a mix of high-value core products and supporting accessory lines across multiple markets. Sales activity spans multiple years, regions, customer segments, and product categories, creating operational complexity for reporting and decision-making.
 
-The focus is on answering a single executive concern.
+As the business scaled, existing reporting approaches were no longer sufficient to support leadership and cross-functional teams. Data lived across multiple tables with limited standardization, making it difficult to produce consistent metrics, track performance drivers, or support ad-hoc analysis without repeated manual effort.
 
-> The business is growing fast. Is that growth structurally healthy and sustainable.
+This work establishes a centralized analytics foundation designed to support repeatable reporting, structured analysis, and executive visibility. The warehouse and analytics layer serve as a shared source of truth for finance, marketing, merchandising, and operations teams, enabling aligned decision-making as the business continues to grow.
 
 ---
 
@@ -30,6 +30,11 @@ The focus is on answering a single executive concern.
 * Platform. Microsoft SQL Server
 * Architecture. Medallion (Bronze, Silver, Gold)
 * Modeling. Star Schema
+
+The full SQL Server data warehouse implementation, including ingestion, transformation, and modeling logic, is maintained in a dedicated repository:
+
+🔗 https://github.com/emerald-web/olist-data-warehouse
+
 
 **Gold Layer Schema**
 
@@ -54,8 +59,8 @@ All warehouse scripts live here.
 
 ## Executive Performance Overview
 
-📌 *Insert Executive KPI Visualization Here*
-Recommended visualization. High-level KPI tiles showing Revenue, Profit Margin, Customer Count, and Average Order Value.
+![Executive KPI Overview](docs/executive_kpis.png)
+
 
 From 2011 to 2013, revenue accelerated year over year, supported by disciplined cost control that preserved margins near 40%. Customer acquisition surged dramatically, forming the primary growth engine. At the same time, Average Order Value declined, signaling a shift toward smaller but more frequent purchases.
 
