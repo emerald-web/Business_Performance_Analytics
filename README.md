@@ -72,7 +72,7 @@ This combination produced strong short-term results, while introducing longer-te
 
 ### Growth Was Driven by Volume, Not Customer Value
 
-![Customer Growth vs Average Order Value Trend. Volume driven growth pattern](docs/customer_vs_aov.png)
+![Customer Growth vs Average Order Value Trend](docs/customer_vs_aov.png)
 
 The customer base expanded by more than 400% across three years, fueling record revenue growth. However, individual transaction value declined steadily. The business scaled by bringing more customers through the door rather than by increasing the value extracted from each relationship.
 
@@ -96,8 +96,8 @@ This insight supports **Merchandising, Operations, and Finance teams** in priori
 
 ### Seasonal Acceleration Became Structural in 2013
 
-📌 *Insert Monthly Revenue Trend Chart Here*
-Recommended visualization. Line chart showing monthly revenue patterns across years.
+![Monthly Revenue Trends by Year. Structural acceleration in 2013](docs/revenue_trends.png)
+
 
 Across all years, revenue followed a predictable seasonal rhythm, with slower starts and strong finishes. In 2013, however, growth began earlier, climbed faster, and sustained momentum longer than previous years.
 
